@@ -1,1 +1,2 @@
-print("Hello, World!")
+с = "Hello, World!"
+print(с)
