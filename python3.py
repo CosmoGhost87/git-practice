@@ -1,6 +1,3 @@
 num = int(input("Введите целое число: "))
-
-if num % 2 == 0:
-    print(f"{num} — чётное число")
-else:
-    print(f"{num} — нечётное число")
+result = {0: "чётное", 1: "нечётное"}
+print(f"{num} — {result[num % 2]} число")
