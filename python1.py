@@ -1,2 +1,2 @@
-с = "Hello, World!"
+с = "Hello, Python!"
 print(с)
