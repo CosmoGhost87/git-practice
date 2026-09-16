@@ -1,3 +1,3 @@
-a = float(input("Введите 1 число: "))
-b = float(input("Введите 2 число: "))
-print(f"Сумма: {a + b}")
+c = float(input("Введите 1 число: "))
+d = float(input("Введите 2 число: "))
+print(f"Сумма: {c + d}")
